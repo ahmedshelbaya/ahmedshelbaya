@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ahmedshelbaya
+- 👀 I’m interested in Embedded Systems, IOT, AI and Edu Tech
+- 🌱 I’m currently learning Machine Learning and IOT 
+- 📫 How to reach me just e-mail me at ahmedshelbaya15@gmail.com
